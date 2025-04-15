@@ -1,5 +1,5 @@
 Letto il 11-04-25 (pg 37 ~ 38)
-#### [[Anno dei Pannoloni Per Adulti Depend|APAD]] 09 Maggio
+#### [[Anno dei Pannoloni Per Adulti Depend|APAD]] ~ 09 Maggio
 
 #### Riassunto del capitolo:
 In questo capitolo molto breve, poco più di una pagina, viene introdotto Mario, il fratello di Hal. Dormono nella stessa stanza all’ETA. Anche se Mario è il fratello maggiore, non partecipa agli allenamenti come gli altri, viene fatto notare che ha una testa pesante e spropositata, e quindi Hal, alle sei del mattino, si prepara in silenzio al buio per non disturbarlo.  
