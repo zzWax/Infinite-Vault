@@ -1,32 +1,29 @@
-# Infinite Jest Vault
+# Infinite Vault
 
-Benvenuto/a nella mia raccolta di riassunti essenziali di *Infinite Jest*.
-
----
-
-## 📅 Riassunti in ordine cronologico
-
-- [[2025-04-12-p45-50]]
-- [[2025-04-14-p50-58]]
-- (Aggiungi i nuovi qui man mano)
+Benvenuto nel mio spazio dedicato ad *Infinite Jest* di David Foster Wallace.
 
 ---
 
-## 👤 Personaggi principali
+## Ultimo riassunto
 
-- [[personaggi/Hal Incandenza]]
-- [[personaggi/James O. Incandenza]]
-- [[personaggi/Famiglia Incandenza]]
+[14-04-2025 ~ pag. 50–58](riassunti/2025-04-14-p50-58.md)
 
 ---
 
-## 📍 Luoghi principali
+## Tutti i riassunti
 
-- [[luoghi/ETA]]
-- [[luoghi/Ennet House]]
+→ [Elenco riassunti](riassunti/index.md)
 
 ---
 
-## 🧭 Navigazione
+## Personaggi
 
-Torna sempre qui cliccando su “Home” nel menu.
+→ [Personaggi principali e ricorrenti](personaggi/index.md)
+
+---
+
+## 🗺️ Luoghi e istituzioni
+
+→ [Mappa dei luoghi e ambienti](luoghi/index.md)
+
+---
