@@ -7,18 +7,18 @@ Qui raccolgo riassunti, connessioni, personaggi e luoghi significativi del roman
 
 ## Tutti i riassunti
 
-→ [Elenco riassunti](RIASSUNTI/)
+→ [Elenco riassunti](Content/RIASSUNTI/)
 
 ---
 
 ## Personaggi
 
-→ [Personaggi principali e ricorrenti](PERSONAGGI/)
+→ [Personaggi principali e ricorrenti](Content/PERSONAGGI/)
 
 ---
 
 ## Luoghi e istituzioni
 
-→ [Mappa dei luoghi e ambienti](LUOGHI/)
+→ [Mappa dei luoghi e ambienti](Content/LUOGHI/)
 
 ---
