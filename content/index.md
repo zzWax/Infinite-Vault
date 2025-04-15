@@ -1,33 +1,32 @@
-# Infinite Jest — Riassunti Essenziali
+# Infinite Jest Vault
 
-Benvenuto nel mio vault personale.  
-Qui raccolgo i riassunti più sintetici possibile dei capitoli del libro *Infinite Jest* di David Foster Wallace.
-
-L’obiettivo? Capire il flusso, i personaggi, gli eventi… senza perdersi nella complessità.
+Benvenuto/a nella mia raccolta di riassunti essenziali di *Infinite Jest*.
 
 ---
 
-## 📖 Indice Capitoli
+## 📅 Riassunti in ordine cronologico
 
-> (clicca su un capitolo per leggere il riassunto)
-
-- [Capitolo 1](capitoli/capitolo-1)
-- [Capitolo 2](capitoli/capitolo-2)
-- [Capitolo 3](capitoli/capitolo-3)
-- [Capitolo 4](capitoli/capitolo-4)
-- [Capitolo 5](capitoli/capitolo-5)
-- ...
+- [[2025-04-12-p45-50]]
+- [[2025-04-14-p50-58]]
+- (Aggiungi i nuovi qui man mano)
 
 ---
 
-## 📎 Note
+## 👤 Personaggi principali
 
-- I riassunti non sono ufficiali, ma frutto di una lettura attenta e personale.
-- Il formato evolve col tempo: qualche capitolo potrà essere più descrittivo, altri solo pochi punti.
-- Ogni collegamento può contenere rimandi ad altri capitoli tramite link interni (come [[capitoli/capitolo-2]]).
+- [[personaggi/Hal Incandenza]]
+- [[personaggi/James O. Incandenza]]
+- [[personaggi/Famiglia Incandenza]]
 
 ---
 
-## 🌐 Navigazione
+## 📍 Luoghi principali
 
-Torna a questa pagina in ogni momento cliccando su “Home” in alto a sinistra.
+- [[luoghi/ETA]]
+- [[luoghi/Ennet House]]
+
+---
+
+## 🧭 Navigazione
+
+Torna sempre qui cliccando su “Home” nel menu.
