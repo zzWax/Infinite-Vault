@@ -1,3 +1,4 @@
+Letto il 7-04-25 (pg 3 ~ 20)
 #### Riassunto del capitolo:
 Nel primo capitolo [[Hal Incandenza]] è sottoposto ad un esame serissimo e prestigiosissimo per entrare a far parte in un'università di altissimo livello. La pressione è alta, e i suoi accompagnatori — lo zio [[Charles Tavis]], il [[coach DeLint]] e il compagno di stanza [[Schacht]] — parlano per lui tessendone le lodi come il miglior studente nonché miglio giocatore di tennis dell'[[ETA]].
 

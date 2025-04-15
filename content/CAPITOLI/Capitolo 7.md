@@ -1,4 +1,5 @@
-Anno del pannolone per adulti depend. APAD
+Letto il 13-04-25 (pg 47 ~ 50)
+#### [[Anno dei Pannoloni Per Adulti Depend|APAD]] ~ 01 Aprile
 
 #### Riassunto del capitolo:
 In queste pagine abbiamo una conversazione notturna tra Hal e Mario Incandenza, tenuta nella loro camera all'ETA, di notte prima di dormire.

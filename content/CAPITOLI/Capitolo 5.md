@@ -1,4 +1,5 @@
-[[Anno della saponetta dove in formato prova]]
+12-04-25 (pg 44 ~ 46)
+#### [[Anno della Saponetta Dove in Formato Prova|ASDFP]] ~ 01 Aprile
 
 #### Riassunto del capitolo:
 Dunque, questo capitolo è divisa in due parti. E in wntrambi le parti non si capisce quasi nulla.

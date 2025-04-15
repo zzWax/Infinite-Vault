@@ -1,4 +1,5 @@
-1° aprile - Anno dei Pannoloni per adulti depend
+Letto il 12-04-25 (pg 44 ~ 46)
+#### [[Anno dei Pannoloni Per Adulti Depend|APAD]] ~ 01 Aprile
 
 #### Riassunto del capitolo:
 Questo capitolo parla dell'attachè medico specialista in otorinolaringoiatra di etnia metà araba, metà canadese, del principe saudita Q-----, il cui unico scopo è quello di tenere a bada la *Candida Albicans* cronica del del principe, causata da una sua malsana dieta a base esclusiva di Töblerone. che gli causa sinusiti, ulcere ai seni frontali afte e tutta un'altra serie di brutte conseguenze. una volta terminato il proprio lavoro ogni sera si ritira a casa dalla moglie araba velata che lo serve e lo riverisce al punto da fargli trovare pronto cibo caldo, una serie di video cartucce nolleggiate appositamente ogni giorno, il tutto preparato e apparecchiato sulla sua super poltrona super lusso reclinabile in modo che possa mangiare senza staccare gli occhi dallo schermo.

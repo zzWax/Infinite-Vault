@@ -1,4 +1,5 @@
-Anno del pannolone per adulti depend. APAD
+Letto il 14-04-25 (pg 50 ~ 58)
+#### [[Anno dei Pannoloni Per Adulti Depend|APAD]] ~ N.D.
 
 #### Riassunto del capitolo:
 Oggi iniziamo con i capitoli lunghi, incasinati e complessi per davvero, vengono raccontate un'infinità di cose, ora ci provo:
