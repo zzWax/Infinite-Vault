@@ -8,10 +8,10 @@ Qui raccolgo riassunti, connessioni, personaggi e luoghi significativi del roman
 
 Potrai trovare
 
-## → Tutti i RIASSUNTI(RIASSUNTI/)
+## -  [Riassunti](riassunti/)
 
-## → I PERSONAGGI PRINCIPALI e RICORRENTI(PERSONAGGI/)
+## -  [Personaggi](personaggi/)
 
-## → I LUOGHI e le ISTUTUZIONI(LUOGHI/)
+## -  [Luoghi](luoghi/)
 
 ### Buona navigazione ;)
