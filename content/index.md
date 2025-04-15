@@ -8,11 +8,10 @@ Qui raccolgo riassunti, connessioni, personaggi e luoghi significativi del roman
 
 Potrai trovare
 
-## → Tutti i RIASSUNTI(Infinite-Vault/RIASSUNTI/)
+## → Tutti i RIASSUNTI(/RIASSUNTI/)
 
-## → I PERSONAGGI PRINCIPALI e RICORRENTI(Infinite-Vault/PERSONAGGI/)
+## → I PERSONAGGI PRINCIPALI e RICORRENTI(/PERSONAGGI/)
 
-## → I LUOGHI e le ISTUTUZIONI(Infinite-Vault/LUOGHI)
-
+## → I LUOGHI e le ISTUTUZIONI(/LUOGHI)
 
 ### Buona navigazione ;)
