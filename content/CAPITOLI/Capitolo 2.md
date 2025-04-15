@@ -1,4 +1,5 @@
 Letto il 8-04-25 (pg 20 ~ 32)
+#### [[Anno dei Pannoloni Per Adulti Depend|APAD]] ~ N.D.
 #### Riassunto del capitolo
 Il protagonista di quest capitolo è [[Ken Eerdedy]], una persona dipendente dalla marijuana, che sta aspettando "la donna che ha detto che sarebbe venuta", una donnna da cui dovrà comprare una quantità spropositata di marijuana grazie alla quale potrà chiudersi in casa per un'intera settimana lontano dal mondo, dal lavoro, dall'universo, per un ultima volta, esattamente come le precedenti. Perchè questo è il suo modo estremamente elaborato e per motivarsi a smettere, una grossa "festa" per celebrare la sua dipendenza tramite un abuso della sostanza stessa. Prepara provviste e intrattenimenti di tutti i tipi freddamente e saggiamente calcolati per permettergli sopravvivere una settimana senza uscire non di casa, ma addirittura dalla camera da letto.
 
