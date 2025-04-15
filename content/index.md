@@ -13,7 +13,7 @@ Qui di seguito troverai:
 ---
 - ## [Luoghi e Istituzioni](LUOGHI/)
 ---
-- ## [Anni Sponsorizzati](ANNI SPONSORIZZATI/)
+- ## [Anni Sponsorizzati](CALENDARIO/)
 ---
 ### ✨Enjoy!✨
 
