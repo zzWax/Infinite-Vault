@@ -6,7 +6,7 @@ Benvenuto nel mio spazio dedicato ad *Infinite Jest* di David Foster Wallace.
 
 ## Ultimo riassunto
 
-[14-04-2025 ~ pag. 50–58](riassunti/2025-04-14-p50-58.md)
+[14-04-2025 ~ pag. 50–58](riassunti/14-04-25 (pg 50 ~ 58).md)
 
 ---
 
@@ -22,7 +22,7 @@ Benvenuto nel mio spazio dedicato ad *Infinite Jest* di David Foster Wallace.
 
 ---
 
-## 🗺️ Luoghi e istituzioni
+## Luoghi e istituzioni
 
 → [Mappa dei luoghi e ambienti](luoghi/index.md)
 
