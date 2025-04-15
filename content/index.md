@@ -14,3 +14,5 @@ Qui di seguito troverai:
 - ## [Luoghi e Istituzioni](Luoghi/)
 ---
 ### ✨Enjoy!✨
+
+Realizzato da [zWax](https://linktr.ee/zWax)
