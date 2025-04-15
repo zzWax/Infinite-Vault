@@ -8,11 +8,11 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "✨Infinite~Vault✨",
+    pageTitle: "🪴 Quartz 4.0",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    locale: "it",
+    locale: "en-US",
     baseUrl: "sosiristseng.github.io/template-quartz",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
@@ -39,8 +39,8 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7139D2",
-          tertiary: "#FCB23C",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
