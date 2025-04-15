@@ -1,17 +1,7 @@
 ---
 title: Infinite~Vault
 ---
-Benvenuto nel mio archivio di lettura di *Infinite Jest*.  
-Qui raccolgo riassunti, connessioni, personaggi e luoghi significativi del romanzo.
 
----
+Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
 
-Potrai trovare
-
-## -  [Riassunti](riassunti/)
-
-## -  [Personaggi](personaggi/)
-
-## -  [Luoghi](luoghi/)
-
-### Buona navigazione ;)
+See the [official documentation](https://quartz.jzhao.xyz/) for more details.
