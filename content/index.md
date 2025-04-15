@@ -7,10 +7,10 @@ Qui raccolgo riassunti, connessioni, personaggi e luoghi significativi del roman
 Qui di seguito troverai:
 
 ---
-- ## [Capitoli Riassunti](CAPITOLI/)
+- ## [Capitoli Riassunti](Capitoli/)
 ---
-- ## [Personaggi e Gruppi](PERSONAGGI/)
+- ## [Personaggi e Gruppi](Personaggi/)
 ---
-- ## [Luoghi e Istituzioni](LUOGHI/)
+- ## [Luoghi e Istituzioni](Luoghi/)
 ---
 ### ✨Enjoy!✨

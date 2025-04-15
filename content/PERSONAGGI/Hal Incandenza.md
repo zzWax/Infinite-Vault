@@ -1,6 +1,6 @@
 ## 👤 Chi è
 
-Studente geniale e problematico all’[[luoghi/ETA]]. Figlio di [[personaggi/James O. Incandenza]].
+Studente geniale e problematico all’[[ETA]]. Figlio di [[James O. Incandenza]].
 
 ## 📘 Apparizioni
 
@@ -10,5 +10,5 @@ Studente geniale e problematico all’[[luoghi/ETA]]. Figlio di [[personaggi/Jam
 
 ## 🔗 Collegamenti
 
-- Famiglia: [[personaggi/Famiglia Incandenza]]
-- Luogo: [[luoghi/ETA]]
+- Famiglia: [[Famiglia Incandenza]]
+- Luogo: [[ETA]]
