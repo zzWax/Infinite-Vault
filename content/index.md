@@ -1,29 +1,24 @@
 # Infinite Vault
 
-Benvenuto nel mio spazio dedicato ad *Infinite Jest* di David Foster Wallace.
-
----
-
-## Ultimo riassunto
-
-[14-04-2025 ~ pag. 50–58](riassunti/14-04-25 (pg 50 ~ 58).md)
+Benvenuto nel mio archivio di lettura di *Infinite Jest*.  
+Qui raccolgo riassunti, connessioni, personaggi e luoghi significativi del romanzo.
 
 ---
 
 ## Tutti i riassunti
 
-→ [Elenco riassunti](riassunti/index.md)
+→ [Elenco riassunti](riassunti/)
 
 ---
 
 ## Personaggi
 
-→ [Personaggi principali e ricorrenti](personaggi/index.md)
+→ [Personaggi principali e ricorrenti](personaggi/)
 
 ---
 
 ## Luoghi e istituzioni
 
-→ [Mappa dei luoghi e ambienti](luoghi/index.md)
+→ [Mappa dei luoghi e ambienti](luoghi/)
 
 ---
