@@ -8,14 +8,11 @@ Qui di seguito troverai:
 
 ---
 - ## [Capitoli Riassunti](CAPITOLI/)
-  
-  
+---
 - ## [Personaggi e Gruppi](PERSONAGGI/)
-
-
+---
 - ## [Luoghi e Istituzioni](LUOGHI/)
-
-
+---
 - ## [Anni Sponsorizzati](CALENDARIO/)
 ---
 ### ✨Enjoy!✨
