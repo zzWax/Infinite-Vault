@@ -1,6 +1,6 @@
 ---
 title: Indice
 ---
-[Capitoli](<CAPITOLI>/)
+[Capitoli](Infinite-Vault/CAPITOLI)
 
-- 🧍‍♂️ [Personaggi](Personaggi/)
+- 🧍‍♂️ [Personaggi](Infinite-Vault/PERSONAGGI)
