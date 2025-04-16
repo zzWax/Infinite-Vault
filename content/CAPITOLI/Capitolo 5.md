@@ -1,13 +1,11 @@
-12-04-25 (pg 44 ~ 46)
-#### [[Anno della Saponetta Dove in Formato Prova|ASDFP]] ~ 01 Aprile
+Letto il 12-04-25 (pg 39 ~ 44)
+#### [[Anno dei Pannoloni Per Adulti Depend|APAD]] ~ 01 Aprile
 
 #### Riassunto del capitolo:
-Dunque, questo capitolo è divisa in due parti. E in entrambi le parti non si capisce quasi nulla.
-A grandi linee, la prima parte è scritta da un bambino o bambina di 8 anni, in modo sgrammaticato, come se qualcuno stesse trascrivendo le parole dette da qualcun altro. Parla di una bambina [[Wardine]] che viene picchiata dalla madre perché [[Roy Tony]], persona apparentemente più adulta, fa il filo alla figlia, un suo coetaneo invece [[Reginald]], è innamorato di Wardine ma si limita a curare con amore le ferite inflitte sulla schiena dalla madre con una gruccia di metallo.
-La seconda parte invece parla di altri due ragazzini, [[Mildred Bonk]] è la ragazza più bella della scuola, e [[Bruce Green]], è come tanti innamorato di lei.
-Mildred crescendo diventa una ragazza dura che frequenta gruppi di ragazzi, e Bruce per poterla conquistare tenta di diventare più duro di lei, ci riesce e vivono felici assieme in una roulotte. Questo ho capito.
+Questo capitolo parla dell'[[attachè medico]] specialista in otorinolaringoiatra di etnia metà araba, metà canadese, del [[principe saudita Q-----]], il cui unico scopo è quello di tenere a bada la *Candida Albicans* cronica del del principe, causata da una sua malsana dieta a base esclusiva di Töblerone. che gli causa sinusiti, ulcere ai seni frontali afte e tutta un'altra serie di brutte conseguenze. una volta terminato il proprio lavoro ogni sera si ritira a casa dalla moglie araba velata che lo serve e lo riverisce al punto da fargli trovare pronto cibo caldo, una serie di video cartucce nolleggiate appositamente ogni giorno, il tutto preparato e apparecchiato sulla sua super poltrona super lusso reclinabile in modo che possa mangiare senza staccare gli occhi dallo schermo.
+Un mercoledì però, giorno in cui il servizio dell'attachè perdura fino a tardi, il principe è particolarmente indisposto mandandolo a casa prima.
+La moglie sapendo che solitamente quel giorno non deve adempiere a doveri coniugali organizza una partita di tennis con altre mogli di altri attacchè, lasciando il marito a casa da solo senza cena, senza cartucce video e senza i consueti confort. Spaesato e irritato l'attacchè inizia a cercare qualcosa da vedere, sia nei servizi di "streaming" sia in casa, e trova delle cartucce arrivate per posta che scarta tutto scocciato e sprovveduto. tra le tante cartucce lavorative a tema medico cen'è una anonima, senza scritte o indicazioni alcune tranne un piccolo augurio di buon anniversario e un bollino giallo con uno smile.
+Non è ne il suo compleanno ne alcun anniversario, quindi annoiato e indispettito la carica nel lettore mentre la cena si scalda nel microonde.
 
 #### Pensieri Personali:
-Questo capitolo diviso a metà non centra nulla ne con quello che si è letto fin'ora, ne con se stesso, sia come contenuto ne come forma.
-Parla di persone, bambini, ragazzini che (per ora) sembrano stare al di fuori della trama del libro, ma comunque esistono nell'universo di IJ (?).
-Forse torneranno più avanti? Forse no? Vediamo...
+La storia di questo Attachè ci mostra quanto nel mondo di IJ (e non solo in quello) le persone siano spesso considerate come degli ingranaggi, dagli altri ma anche da se stessi, appena il macchinario in cui sono inseriti mostra un leggero malfunzionamento, ecco che il protagonista del capitolo si ritrova a non saper come muoversi, ne a cosa fare, non approfitta dell'anomalia per prendersi un po' di tempo per se, per "cambiare aria" ma al contrario non ne ha alcuna intenzione perchè lo vediamo provare goffamente a rientrare nei ranghi come può, rattoppando il programma della serata affinchè finisca il più possibile come prestabilito, mostrando una dipendenza ormai cronica dalle sue dipendenze e abitudini, esattamente come quella che ha il principe saudita con [[Töblerone]].
