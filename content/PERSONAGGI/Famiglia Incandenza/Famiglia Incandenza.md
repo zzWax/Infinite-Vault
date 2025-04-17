@@ -1,0 +1,5 @@
+- Padre: [[James O. Incandenza]]
+- Madre: [[Mami|Avril A. Incandenza]]
+- Figlio Maggiore: [[Orin Incandenza]]
+- Figlio Mediano: [[Mario Incandenza]]
+- Figio Minore: [[Hal Incandenza]]

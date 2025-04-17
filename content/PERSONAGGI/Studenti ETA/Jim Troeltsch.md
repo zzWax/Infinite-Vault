@@ -1,0 +1,1 @@
+Compagno di stanza di [[Michael Pemulis]] e cronista delle partite di tennis
