@@ -5,6 +5,7 @@ Benvenutə nel mio archivio di lettura di **_Infinite Jest_** (in continua espan
 Qui raccolgo riassunti, connessioni, personaggi e luoghi significativi del romanzo, insieme alle mie riflessioni personali: impressioni a caldo, brevi, spesso confuse e indubbiamente parziali — il tutto nel modo più ordinato e interattivo possibile.
 
 [[Capitolo 9|QUI]] L'ultimo capitolo letto.
+[[IJ_Diagram-Huge-A 1.jpg|QUI]] un diagramma ordinato e completo di tutte le relazioni tra i personaggi realizzata da [Sam Potts](https://www.sampottsinc.com/projects/ij/)
 
 | ![[InfiniteJest 2.jpg]]                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
