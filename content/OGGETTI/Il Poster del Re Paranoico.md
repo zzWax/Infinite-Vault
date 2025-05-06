@@ -4,11 +4,14 @@ Come si legge nella nota 211, questo poster è stato regalato da [[Hal Incandenz
 Alcune illustrazioni trovate in rete
 
 ![[Paranoid King 1.jpg]]
-Autore [Ewald Dominter](https://www.behance.net/gallery/46168865/Infinite-Jest-The-Paranoid-King-Poster)
+
+**↑** [Ewald Dominter](https://www.behance.net/gallery/46168865/Infinite-Jest-The-Paranoid-King-Poster)
 
 
 ![[Paranoid King 2.jpg]]
-Autore [Marcus Preiss](https://www.artstation.com/artwork/2xOlqJ)
+
+**↑** [Marcus Preiss](https://www.artstation.com/artwork/2xOlqJ)
 
 ![[Paranoid King 3.jpg]]
-Autore [Fingideon](https://www.deviantart.com/fingideon/art/The-Paranoid-King-865542477)
+
+**↑** [Fingideon](https://www.deviantart.com/fingideon/art/The-Paranoid-King-865542477)
