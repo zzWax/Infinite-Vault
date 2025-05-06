@@ -1,0 +1,1 @@
+![[Cassetta Misteriosa.jpg]]
