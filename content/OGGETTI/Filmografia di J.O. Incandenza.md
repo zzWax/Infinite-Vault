@@ -308,3 +308,5 @@ Ciascun titolo è seguito: o dall’anno di completamento o dalla dicitura «A.
 (e) Anonimo, Vedere contro Credere, «Cartridge Quarterly East», vol. 4. n. 4, YW-Q.M.D., pp. 93-95.
 
 (f) Ibid.
+
+![[Poor Yorick Entertainment.jpg]]
