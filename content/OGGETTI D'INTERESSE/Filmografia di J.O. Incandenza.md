@@ -11,6 +11,7 @@ Ciascun titolo è seguito: o dall’anno di completamento o dalla dicitura «A.
 - ###### Cage (Gabbia)(b).
   Datato unicamente «Avanti Sponsorizzazione». Meniscus Films, Ltd. Cast non accertato; 16mm; 0,5 minuti; bianco e nero; sonoro. Parodia soliloquizzata di una pubblicità radiotelevisiva di shampoo, che utilizza quattro specchi convessi, due specchi planari, e un’attrice. NON DISTRIBUlTO
 
+
 - ###### Kinds of Light (Tipi di luce).
   A.S. Meniscus Films, Ltd. Nessun cast; 16 mm; 3 minuti; colore; muto. 4444 singole inquadrature ognuna delle quali mostra luci di diversa origine, lunghezza d’onda e intensità in candele, riflesse sulla stessa targa di metallo non lucidata e che disorientano alla normale velocità di proiezione per la velocità iperretinale alla quale passano. CELLULOIDE, DISTRIBUZIONE LIMITATA ALL’AREA METROPOLITANA DI BOSTON, RICHIEDE PROIEZIONE SU NORMALE DRIVE DA 0,25
 
