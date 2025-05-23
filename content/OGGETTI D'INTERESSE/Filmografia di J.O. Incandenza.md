@@ -10,23 +10,24 @@ Ciascun titolo è seguito: o dall’anno di completamento o dalla dicitura «A.
 
 - ###### Cage (Gabbia)(b).
   Datato unicamente «Avanti Sponsorizzazione». Meniscus Films, Ltd. Cast non accertato; 16mm; 0,5 minuti; bianco e nero; sonoro. Parodia soliloquizzata di una pubblicità radiotelevisiva di shampoo, che utilizza quattro specchi convessi, due specchi planari, e un’attrice. NON DISTRIBUlTO
-
-
+  <br>
 - ###### Kinds of Light (Tipi di luce).
   A.S. Meniscus Films, Ltd. Nessun cast; 16 mm; 3 minuti; colore; muto. 4444 singole inquadrature ognuna delle quali mostra luci di diversa origine, lunghezza d’onda e intensità in candele, riflesse sulla stessa targa di metallo non lucidata e che disorientano alla normale velocità di proiezione per la velocità iperretinale alla quale passano. CELLULOIDE, DISTRIBUZIONE LIMITATA ALL’AREA METROPOLITANA DI BOSTON, RICHIEDE PROIEZIONE SU NORMALE DRIVE DA 0,25
-
+  <br>
 - ###### Dark Logics (Logiche oscure).
   A.S. Meniscus Films, Ltd. Attori non citati. 35mm; 21 minuti; colore; muto con assordante colonna sonora Wagner/Sousa. Tributo a Griffith, parodia di Iimura. Mano di dimensione infantile ma affetta da grave tremore volta le pagine di manoscritti incunabolari di matematica, alchimia, religione e finta autobiografia politica, in ogni pagina c’è qualche articolazione o difesa dell’intolleranza e dell’odio. Dedica del film a D. W. Griffith e Taka limura. NON DISTRIBUITO
-
+  <br>
 - ###### Tennis, Everyone? (Tennis, per tutti?).
   A.S. Heliotrope Films, Ltd./Usta Films. Cast da documentario con narratore, Judith Fukuoka-Heam; 26 minuti; 35mm; colore; sonoro. Produzione di pubbliche relazioni/promozionale per la United States Tennis Association in collaborazione con la Wilson Sporting Goods, Inc. VIDEO MAGNETICO
-
+  <br>
 - ###### There Are No Losers Here (Qui non ci sono perdenti).
   A.S. Heliotrope Films, Ltd./Usta Films. Cast da documentario con narratore, P.A. Heaven; 35mm; colore; sonoro. Documentario sul Campionato di Tennis Nazionale Juniores Usta del 1997 A.S., Kalamazoo Mi e Miami Fl, in collaborazione con la United States Tennis Association e la Wilson Sporting Goods, Inc. VIDEO MAGNETICO
-
-Flux in a Box (Flusso in uno spazio chiuso). A.S. Heliotrope Films, Ltd./Wilson Inc. Cast da documentario con narratore, Judith Fukuoka-Heam; 35mm; 52 minuti; bianco e nero/colore; sonoro. Storia documentaria del tennis in spazi chiusi, piattaforme, erba e cemento dalla Corte del Dauphin del XVII secolo ai giorni nostri. VIDEO MAGNETICO
-
-Infinite Jest (I) (Lo scherzo infinito, I). A. S. Heliotrope Films, Ltd. Judith Fukuoka Heam; 16/35 mm; 90 (?) minuti; bianco e nero; muto. Primo tentativo di Incandenza di intrattenimento commerciale, non finito e non visto. NON DISTRIBUITO
+  <br>
+- ###### Flux in a Box (Flusso in uno spazio chiuso).
+  A.S. Heliotrope Films, Ltd./Wilson Inc. Cast da documentario con narratore, Judith Fukuoka-Heam; 35mm; 52 minuti; bianco e nero/colore; sonoro. Storia documentaria del tennis in spazi chiusi, piattaforme, erba e cemento dalla Corte del Dauphin del XVII secolo ai giorni nostri. VIDEO MAGNETICO
+  <br>
+- ######  Infinite Jest (I) (Lo scherzo infinito, I).
+  A. S. Heliotrope Films, Ltd. Judith Fukuoka Heam; 16/35 mm; 90 (?) minuti; bianco e nero; muto. Primo tentativo di Incandenza di intrattenimento commerciale, non finito e non visto. NON DISTRIBUITO
 
 Annular Fusion Is Our Friend (La fusione anulare è nostra amica). A.S. Heliotrope Films, Ltd./Sunstrand Power & Light Co. Cast da documentario con narratore, CN. Reilly; Interpretato in Linguaggio Gestuale per i Non Udenti; 78mm; 45 minuti; colore; sonoro. Produzione di pubbliche relazioni/promozionale per la Sunstrand Power & Light del New England, una spiegazione non tecnica dei processi del ciclo Dt per la fusione anulare al litio e le
 
