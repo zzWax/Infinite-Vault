@@ -54,13 +54,20 @@ Ciascun titolo è seguito: o dall’anno di completamento o dalla dicitura «A.
   A.S. Meniscus Films, Lrd, Cast da documentario; 35mm; 26 minuti; colore; muto, con uso di distorsione computerizzata nei primi piani. Documentario e interviste sottotitolate ai partecipanti al dibattito pubblico Steven Pinker - Avril M. Incandenza riguardo alle implicazioni politiche della grammatica prescrittiva durante la tristemente nota convenzione dei Grammatici
 
 &nbsp;
-- ###### Militanti del Massachusetts a cui si addebita l’incitamento delle rivolte linguistiche al Mit del 1997 a.S. NON DISTRIBUITO CAUSA CONTROVERSIA LEGALE
+- ###### Militanti del Massachusetts
+  a cui si addebita l’incitamento delle rivolte linguistiche al Mit del 1997 a.S. NON DISTRIBUITO CAUSA CONTROVERSIA LEGALE
 
-Widower (Vedovo). A.S. Latrodectus Mactans Productions. Cosgrove Watt, Ross Reat; 35mm; 34 minuti: bianco e nero; sonoro. Esterni girati a Tucson Az, parodia delle commedie Casalinghe trasmesse in televisione, un padre cocainomane (Watt) guida il figlio (Reat) attraverso la loro proprietà deserta immolando ragni velenosi. CELLULOIDE, RIDISTRIBUZIONE SU CARTUCCIA INTERLACE TELENT N. 357-75-00 (APPW)
+&nbsp;
+- ###### Widower (Vedovo).
+  A.S. Latrodectus Mactans Productions. Cosgrove Watt, Ross Reat; 35mm; 34 minuti: bianco e nero; sonoro. Esterni girati a Tucson Az, parodia delle commedie Casalinghe trasmesse in televisione, un padre cocainomane (Watt) guida il figlio (Reat) attraverso la loro proprietà deserta immolando ragni velenosi. CELLULOIDE, RIDISTRIBUZIONE SU CARTUCCIA INTERLACE TELENT N. 357-75-00 (APPW)
 
-Cage II (Gabbia II). A.S. Latrodectus Mactans Productions. Cosgrove Watt, Disney Leith; 35 mm; 120 minuti; bianco e nero; sonoro. Autorità penali sadiche collocano un prigioniero cieco (Watt) e uno sordomuto (Leith) insieme in cella d’isolamento, e i due uomini cercano di trovare dei modi di comunicare. LlMITATE COPIE IN CELLULOIDE; RIDISTRIBUITO SU VIDEO MAGNETICO
+&nbsp;
+- ###### Cage II (Gabbia II).
+  A.S. Latrodectus Mactans Productions. Cosgrove Watt, Disney Leith; 35 mm; 120 minuti; bianco e nero; sonoro. Autorità penali sadiche collocano un prigioniero cieco (Watt) e uno sordomuto (Leith) insieme in cella d’isolamento, e i due uomini cercano di trovare dei modi di comunicare. LlMITATE COPIE IN CELLULOIDE; RIDISTRIBUITO SU VIDEO MAGNETICO
 
-Death in Scandale (Morte a Scandale). A.S. Latrodectus Mactans Productions. Cosgrove Watt, Marlon R. Bain; 78mm; 39 minuti; colore; muto con sottotitoli. Parodia di Mann/Allen, un dermatologo endocrinologo di fama mondiale (Watt) sviluppa un’ossessione platonica per un ragazzo (Bain) in cura presso di lui per eccessiva traspirazione, e comincia a sua volta a soffrire di eccessiva traspirazione. NON DISTRIBUITO
+&nbsp;
+- ###### Death in Scandale (Morte a Scandale).
+  A.S. Latrodectus Mactans Productions. Cosgrove Watt, Marlon R. Bain; 78mm; 39 minuti; colore; muto con sottotitoli. Parodia di Mann/Allen, un dermatologo endocrinologo di fama mondiale (Watt) sviluppa un’ossessione platonica per un ragazzo (Bain) in cura presso di lui per eccessiva traspirazione, e comincia a sua volta a soffrire di eccessiva traspirazione. NON DISTRIBUITO
 
 Fun with Teeth (Divertimento coi denti). A. S. Latrodectus Mactans Productions. Herbert G. Birch, BiIl:y Tolan, Pam Heath; 35mm; 73 minuti; bianco e nero; muto con strilli e grugniti non umani. Parodia di Kosinski/Updike/Peckinpah, un dentista (Birch) esegue sedici interventi senza anestesia sul canale radicolare di un accademico (Tolan) che sospetta abbia una relazione con sua moglie (Heath). VIDEO MAGNETICO, PRIVATAMENTE DISTRIBUITO DA LATRODECTUS MACTANS PROD.
 
